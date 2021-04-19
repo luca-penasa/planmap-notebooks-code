@@ -51,4 +51,15 @@
       the&nbsp;"Scuola internazionale di Comics - Academy of Visual Art and New
       Media".</p>
     {{bianca}}
+    
+      <div>&nbsp;</div>
+  
 
+
+<h2>Planmap' sountrack: Ivan Fantino</h2>
+
+<p class="rtejustify"><a href="https://www.youtube.com/channel/UCraswM7JQ4gJ_RRivlmwSIg"><img alt="" src="https://planmap.eu/sites/default/files/ivan.png" style="border-radius:10%; float:left; margin-left:10px; margin-right:10px; width:120px" /></a> Ivan Fantino is an italian multi-instrumentalist that works in many active projects. He plays guitar, bass guitar, and keyboard and thanks to his remarkable versatility he has many different ongoing projects. The love for instrumental music and emotions it transmits led Ivan to become his own producer and started his personal project called ITH in 2018. Between djent and postrock, the ITH Project wants to explore the baffling emotions and feelings of dreams from the point of view of a blind child. Inspired by Plini, David Maxim Micic and similar artists, ITH is a onemanband project with exploration desire at its core and each song has references to space, stars and science. In September 2019 ITH realesed his first single and so the project began. After that ITH released other singles and an EP called "Circles". The single Flair was realised in collaboration with the PlanMap project and was created as a gift for the team to support scientific research and their work.</p>
+
+<div class="rtecenter">
+<p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/DnH3Vti_ls4" width="560"></iframe></p>
+</div>
